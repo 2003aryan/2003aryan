@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2003aryan
+- 👋 Hi, I’m Aryan Garg
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++
 - 📫 How to reach me aryangarg@outlook.in
